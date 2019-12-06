@@ -1,0 +1,7 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "editor.accessibilitySupport": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+}
